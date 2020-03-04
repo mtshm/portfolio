@@ -1,6 +1,6 @@
 ## ポートフォリオ
 ## アプリのURL
-https://mtshm.netlify.com
+https://mtshm-portfolio.netlify.com/
 
 ## アプリの概要
 食事の栄養管理アプリです。
